@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Markus – oder einfach: MadGapun
+# 👋 Hallo, ich bin Markus – oder einfach aus alten Tagen mein Nick: Mad Gapun
 
 Ich bin ein pragmatischer Visionär mit technischem Hintergrund, systemischem Denken und dem Wunsch, Maschinen zum *Mitdenken* zu bringen.
 
