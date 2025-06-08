@@ -55,3 +55,17 @@ Ich bin kein typischer Entwickler – ich bin jemand, der **Systeme zusammenfüg
 
 > _Dieser Account ist nicht perfekt. Aber er ist echt. Und er wächst mit jedem Gedanken, den ich hineingebe._
 
+---
+
+## 🤖 Unterstützt durch KI – orchestriert von Mensch
+
+Dieses Projekt entsteht im Zusammenspiel von:
+- **Claude / Opus (Anthropic):** zur Ausführung und Systemintegration
+- **OpenAI Codex:** zur strukturierten Codegenerierung und Taskautomatisierung
+- **GPT-4 (Mama):** zur Planung, Analyse und Prompt-Optimierung
+
+Alle Instanzen arbeiten über GitHub, eigene APIs und lokale Agenten – koordiniert durch menschliche Intuition und digitale Regeln.
+
+> ELWOSA denkt nicht für mich – es denkt **mit mir.**
+
+
