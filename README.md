@@ -1,49 +1,73 @@
 # Markus Peter Birzite
-**Senior Solution Architect | PLM/PDM Systems | Digital Transformation**
+**Senior Solution Architect | PLM/PDM-Systeme | Digitale Transformation**
 
 ---
 
-## 👨‍💼 Professional Profile
+## 👨‍💼 Berufsprofil
 
-Experienced systems architect specializing in PLM/PDM implementations, digital transformation, and technical process optimization. With over 20 years in engineering and IT systems, I bridge the gap between business requirements and technical solutions in industrial environments.
+Erfahrener Systemarchitekt mit über **25 Jahren Expertise** in PLM/PDM-Implementierungen, digitaler Transformation und technischer Prozessoptimierung. Brückenbauer zwischen Fachbereichen, IT und Management in industriellen Umgebungen.
 
-### 🎯 Current Focus
-**ELWOSA** - An intelligent project management ecosystem that demonstrates practical AI integration in enterprise workflows. This project showcases modern architecture patterns including microservices, API orchestration, and multi-AI coordination.
-
----
-
-## 🛠️ Core Competencies
-
-**Systems Architecture & Integration**
-- PLM/PDM Systems (Teamcenter, CAD-Desktop, ECTR, SAP)
-- Digital Transformation Strategy & Implementation
-- CAD/ERP Integration & Data Governance
-- Process Design for R&D and Engineering Organizations
-
-**Project Leadership**
-- International IT/Engineering Projects (German/English)
-- Stakeholder Communication & Change Management
-- Technical Sales Support & Customer Advisory
-- Cross-functional Team Leadership
-
-**Technical Expertise**
-- Enterprise Software Architecture
-- API Design & Integration Patterns
-- Database Design & Data Migration
-- IT Security in Technical Environments
+### 🎯 Aktueller Fokus
+**ELWOSA** - Ein intelligentes Projektmanagement-Ökosystem, das praktische KI-Integration in Enterprise-Workflows demonstriert. Dieses Projekt zeigt moderne Architektur-Patterns mit Microservices, API-Orchestrierung und Multi-AI-Koordination.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Kernkompetenzen
+
+**Systemarchitektur & Integration**
+- PLM/PDM-Systeme (Teamcenter, CAD-Desktop, ECTR, SAP, 3DExperience)
+- Digitale Transformationsstrategien & Implementierung
+- CAD/ERP-Integration & Data Governance
+- Prozessdesign für F&E und Engineering-Organisationen
+
+**Projektleitung**
+- Internationale IT/Engineering-Projekte (Deutsch/Englisch)
+- Stakeholder-Kommunikation & Change Management
+- Technische Vertriebsunterstützung & Kundenberatung
+- Führung interdisziplinärer Teams
+
+**Technische Expertise**
+- Enterprise-Software-Architektur
+- API-Design & Integrationspatterns
+- Datenbankdesign & Datenmigration
+- IT-Sicherheit in technischen Systemlandschaften
+
+---
+
+## 💼 Berufliche Stationen
 
 **Senior Solution Architect** | CIDEON Software & Services GmbH (2025)  
-*PLM/SAP project consulting, complex digitalization project leadership*
+*PLM/SAP-Projektberatung, Leitung komplexer Digitalisierungsprojekte*
 
 **Business Process Manager Technology** | TOMRA Sorting GmbH (2020-2024)  
-*R&D systems process responsibility, international IT/Engineering project leadership*
+*Prozessverantwortung F&E-Systeme, internationale IT/Engineering-Projektleitung*
 
-**PLM/PDM Consultant** | Freelancer (2007-2020)  
-*Technical architect for information systems, specialist for PLM system landscapes*
+**Geschäftsführer** | hitteam.de Software Solutions (2009-2017)  
+*Spezialsoftware für Konstruktions- und Dokumentmanagement*
+
+**PLM/PDM-Berater** | Freiberufler (2007-2020)  
+*Technischer Architekt für Informationssysteme, PLM-Systemlandschaften*
+
+---
+
+## 🏆 Ausgewählte Referenzprojekte
+
+### **Enterprise PLM-Implementierungen**
+- **TOMRA Sorting GmbH:** 3DExperience-Einführung, internationale Projektleitung
+- **Kahl Holding GmbH:** Ganzheitliche PLM-Strategie für Unternehmensgruppe
+- **Bauer Gruppe (Österreich):** PDM-Integration in DMS-Umgebung mit ERP-Kopplung
+
+### **Namhafte Kunden (Auswahl)**
+- **Andritz AG** (Schweiz) - 700+ Installationen Vault-Erweiterungen
+- **DESY** (Deutsches Elektronen-Synchrotron)
+- **European Molecular Biology Laboratory (EMBL)**
+- **Amandus Kahl GmbH** - PLM/PDM-Gesamtkonzept
+- **Sensovation AG** - PLM-Integration Bewertung
+
+### **Software-Entwicklungsprojekte**
+- **EDM-System Entwicklung** für KMU (Solid Edge, SolidWorks, Inventor)
+- **CAD-Konfigurator** für Standardisierung und Anlagenplanung
+- **Cloud-ERP "Kolibri"** - Technischer Partner S4E AG
 
 ---
 
@@ -51,51 +75,63 @@ Experienced systems architect specializing in PLM/PDM implementations, digital t
 
 **Enterprise Learning & Work Organization System for AI**
 
-A comprehensive project management platform demonstrating:
-- **Microservices Architecture** with 7+ production services
-- **Multi-AI Integration** (OpenAI GPT-4, Anthropic Claude, Local LLMs)
-- **Real-time Collaboration** via WebSocket and API orchestration
-- **Model Context Protocol (MCP)** implementation for AI workflows
-- **PostgreSQL/FastAPI** backend with modern web interfaces
+Umfassende Projektmanagement-Plattform mit:
+- **Microservices-Architektur** mit 7+ produktiven Services
+- **Multi-AI-Integration** (OpenAI GPT-4, Anthropic Claude, lokale LLMs)
+- **Echtzeit-Kollaboration** via WebSocket und API-Orchestrierung
+- **Model Context Protocol (MCP)** Implementation für AI-Workflows
+- **PostgreSQL/FastAPI** Backend mit modernen Web-Interfaces
 
-**Technical Stack:** Python, FastAPI, PostgreSQL, Docker, NGINX, React  
-**Repository:** [ELWOSA-Pub](https://github.com/MadGapun/ELWOSA-Pub) (Public Demo)
+**Tech-Stack:** Python, FastAPI, PostgreSQL, Docker, NGINX, React  
+**Repository:** [ELWOSA-Pub](https://github.com/MadGapun/ELWOSA-Pub) (Öffentliche Demo)
 
-### Key Features Implemented
-- Task management with AI-powered automation
-- Project hierarchy and milestone tracking
-- Multi-agent AI coordination via GitHub integration
-- Memory system for persistent context across sessions
-- RESTful APIs with comprehensive documentation
-
----
-
-## 🎓 Education & Certifications
-
-**DQR 6 - Mechanical Engineering Technician** (2016)  
-*Focus: Data Management in Enterprise Groups*
-
-**DQR 5 - IT Systems Engineer** (2000)  
-*Specialization: Server, Network Security, Data Protection*
+### Implementierte Features
+- Task-Management mit KI-gestützter Automatisierung
+- Projekt-Hierarchie und Meilenstein-Tracking
+- Multi-Agent KI-Koordination via GitHub-Integration
+- Memory-System für persistenten Kontext
+- RESTful APIs mit umfassender Dokumentation
 
 ---
 
-## 🔧 Technical Skills
+## 🎓 Ausbildung & Qualifikationen
 
-**Enterprise Software:** MS Office Suite, Jira, Azure DevOps, SharePoint, Visio  
-**PLM/PDM/ERP:** CAD-Desktop, GEDAS, Teamcenter, PRO.FILE, ECTR, SAP, Infor  
-**CAD Systems:** Solid Edge, SolidWorks, AutoCAD, Catia, Inventor, Fusion 360  
-**Programming:** Python, SQL, C#, Java, PHP (historical experience)  
-**Languages:** German (native), English (fluent, B2)
+**DQR 6 - Maschinenbau Techniker** (2016)  
+*G1 Hamburg, Schwerpunkt: Datenmanagement in Unternehmensgruppen*
+
+**DQR 5 - IT-Systemingenieur** (2000)  
+*Moebius/BFD Kiel, Spezialisierung: Server, Netzwerksicherheit, Datenschutz*
+
+**DQR 4 - Technischer Zeichner** Maschinen- und Anlagenbau (1996)  
+*Tietgen GmbH, Neumünster*
 
 ---
 
-## 📫 Contact
+## 🔧 Technische Fertigkeiten
 
-- **Email:** mb@birzite.de
-- **Location:** Wedel, Germany
+**Enterprise-Software:** MS Office, Jira, Azure DevOps, MS Project, SharePoint, Visio  
+**PLM/PDM/ERP:** CAD-Desktop, GEDAS, Teamcenter, PRO.FILE, ECTR, SAP, Infor, IFS  
+**CAD-Systeme:** Solid Edge, SolidWorks, AutoCAD, Catia, Inventor, Fusion 360  
+**Programmierung:** Python, SQL, C#, Java, PHP (historisch)  
+**Sprachen:** Deutsch (Muttersprache), Englisch (fließend, B2)
+
+---
+
+## 📫 Kontakt
+
+- **E-Mail:** mb@birzite.de
+- **Standort:** Wedel, Deutschland
 - **Website:** [www.birzite.de](http://www.birzite.de)
 - **LinkedIn:** [Markus Birzite](https://www.linkedin.com/in/markus-birzite-74)
+
+---
+
+## 🌟 Besonderheiten
+
+- **Mitglied** bei MinD (Mensa Deutschland) & Mensa Schweiz
+- **Internationale Erfahrung:** NATO/KFOR Kosovo (1999)
+- **Hobbys:** CNC, 3D-Druck, Holzwerkstatt & kreative Technikprojekte
+- **Referenzen** auf Anfrage verfügbar
 
 ---
 
@@ -105,4 +141,4 @@ A comprehensive project management platform demonstrating:
 
 ---
 
-*This profile represents practical experience in enterprise software architecture, with a focus on real-world solutions that bridge technical capabilities with business requirements.*
+*Dieses Profil repräsentiert praktische Erfahrung in Enterprise-Software-Architektur mit Fokus auf reale Lösungen, die technische Möglichkeiten mit Geschäftsanforderungen verbinden.*
