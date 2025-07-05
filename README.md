@@ -53,7 +53,7 @@ Erfahrener Systemarchitekt mit über **25 Jahren Expertise** in PLM/PDM-Implemen
 ## 🏆 Ausgewählte Referenzprojekte
 
 ### **Enterprise PLM-Implementierungen**
-- **TOMRA Sorting GmbH:** 3DExperience-Einführung, internationale Projektleitung
+- **TOMRA Sorting GmbH:** 3DExperience-Einführung, PROCAD/ProFile Projektleitung, internationale Projektleitung
 - **Kahl Holding GmbH:** Ganzheitliche PLM-Strategie für Unternehmensgruppe
 - **Bauer Gruppe (Österreich):** PDM-Integration in DMS-Umgebung mit ERP-Kopplung
 
