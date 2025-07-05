@@ -15,7 +15,7 @@ Erfahrener Systemarchitekt mit über **25 Jahren Expertise** in PLM/PDM-Implemen
 ## 🛠️ Kernkompetenzen
 
 **Systemarchitektur & Integration**
-- PLM/PDM-Systeme (Teamcenter, CAD-Desktop, ECTR, SAP, 3DExperience)
+- PLM/PDM-Systeme (ProFile/ProCAD, CAD-Desktop, ECTR, SAP, 3DExperience, Teamcenter)
 - Digitale Transformationsstrategien & Implementierung
 - CAD/ERP-Integration & Data Governance
 - Prozessdesign für F&E und Engineering-Organisationen
