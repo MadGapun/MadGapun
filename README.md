@@ -1,71 +1,108 @@
-
-
-
-# 👋 Hallo, ich bin Markus – oder einfach aus alten Tagen mein Nick: Mad Gapun
-
-Ich bin ein pragmatischer Visionär mit technischem Hintergrund, systemischem Denken und dem Wunsch, Maschinen zum *Mitdenken* zu bringen.
-
-Ursprünglich komme ich aus dem Maschinen- und Anlagenbau – mit vielen Jahren Erfahrung als Konstrukteur, Prozessarchitekt, PLM/PDM-Berater und Projektleiter. Heute verfolge ich ein persönliches Ziel: **ein eigenständiges, KI-gestütztes Betriebssystem für Alltag, Werkstatt und Systempflege** – mein Projekt heißt:
+# Markus Peter Birzite
+**Senior Solution Architect | PLM/PDM Systems | Digital Transformation**
 
 ---
 
-## 🧠 ELWOSA – Ein lernendes Betriebssystem mit System
+## 👨‍💼 Professional Profile
 
-ELWOSA ist kein Showcase. Es ist ein echtes System, das:
+Experienced systems architect specializing in PLM/PDM implementations, digital transformation, and technical process optimization. With over 20 years in engineering and IT systems, I bridge the gap between business requirements and technical solutions in industrial environments.
 
-- **Aufgaben speichert, versteht und ausführt**
-- **Agenten ansteuert, Dienste startet, Diagnosen meldet**
-- **mit GPT-4, Codex, Claude und lokalem MCP-Server interagiert**
-- **Regeln kennt, Prioritäten setzt und sich weiterentwickelt**
-
-Es ist entstanden aus Neugier – und aus dem Wunsch, *weniger klicken, mehr denken zu lassen*.
+### 🎯 Current Focus
+**ELWOSA** - An intelligent project management ecosystem that demonstrates practical AI integration in enterprise workflows. This project showcases modern architecture patterns including microservices, API orchestration, and multi-AI coordination.
 
 ---
 
-## ⚙️ Technologien
+## 🛠️ Core Competencies
 
-- 🧠 GPT-4 / OpenAI Codex / Claude
-- 🐍 Python, FastAPI, Shell
-- 🐳 Docker, NGINX, Redis, SQLite/PostgreSQL
-- 💻 GitHub Actions, Auto-Issue-Creation, Label-Driven Tasks
-- 📡 MCP & SSH-Agenten (lokal und remote)
+**Systems Architecture & Integration**
+- PLM/PDM Systems (Teamcenter, CAD-Desktop, ECTR, SAP)
+- Digital Transformation Strategy & Implementation
+- CAD/ERP Integration & Data Governance
+- Process Design for R&D and Engineering Organizations
 
----
+**Project Leadership**
+- International IT/Engineering Projects (German/English)
+- Stakeholder Communication & Change Management
+- Technical Sales Support & Customer Advisory
+- Cross-functional Team Leadership
 
-## 🧩 Mein Hintergrund
-
-Ich bin kein typischer Entwickler – ich bin jemand, der **Systeme zusammenfügt, Regeln schafft und Automatisierung denkt**. Meine Stärken:
-
-- 🌿 *Strukturiertes Denken*
-- 🧩 *Systemintegration*
-- 🤖 *Maschinennähe & KI-Verständnis*
-- 📊 *Business-Logik, Prozessarchitektur, Selbstorganisation*
-
-> _„Ich baue nicht, weil ich es muss – ich baue, weil ich sehen will, wie es denkt.“_
-
----
-
-## 🔗 Kontakt & Links
-
-- 🌐 [www.birzite.de](http://www.birzite.de)
-- 💼 [LinkedIn – Markus Birzite](https://www.linkedin.com/in/markus-birzite-74)
-- 📂 [ELWOSA Repository](https://github.com/MadGapun/ELWOSA)
+**Technical Expertise**
+- Enterprise Software Architecture
+- API Design & Integration Patterns
+- Database Design & Data Migration
+- IT Security in Technical Environments
 
 ---
 
-> _Dieser Account ist nicht perfekt. Aber er ist echt. Und er wächst mit jedem Gedanken, den ich hineingebe._
+## 💼 Professional Experience
+
+**Senior Solution Architect** | CIDEON Software & Services GmbH (2025)  
+*PLM/SAP project consulting, complex digitalization project leadership*
+
+**Business Process Manager Technology** | TOMRA Sorting GmbH (2020-2024)  
+*R&D systems process responsibility, international IT/Engineering project leadership*
+
+**PLM/PDM Consultant** | Freelancer (2007-2020)  
+*Technical architect for information systems, specialist for PLM system landscapes*
 
 ---
 
-## 🤖 Unterstützt durch KI – orchestriert von Mensch
+## 🚀 Featured Project: ELWOSA
 
-Dieses Projekt entsteht im Zusammenspiel von:
-- **Claude / Opus (Anthropic):** zur Ausführung und Systemintegration
-- **OpenAI Codex:** zur strukturierten Codegenerierung und Taskautomatisierung
-- **GPT-4 (Mama):** zur Planung, Analyse und Prompt-Optimierung
+**Enterprise Learning & Work Organization System for AI**
 
-Alle Instanzen arbeiten über GitHub, eigene APIs und lokale Agenten – koordiniert durch menschliche Intuition und digitale Regeln.
+A comprehensive project management platform demonstrating:
+- **Microservices Architecture** with 7+ production services
+- **Multi-AI Integration** (OpenAI GPT-4, Anthropic Claude, Local LLMs)
+- **Real-time Collaboration** via WebSocket and API orchestration
+- **Model Context Protocol (MCP)** implementation for AI workflows
+- **PostgreSQL/FastAPI** backend with modern web interfaces
 
-> ELWOSA denkt nicht für mich – es denkt **mit mir.**
+**Technical Stack:** Python, FastAPI, PostgreSQL, Docker, NGINX, React  
+**Repository:** [ELWOSA-Pub](https://github.com/MadGapun/ELWOSA-Pub) (Public Demo)
 
+### Key Features Implemented
+- Task management with AI-powered automation
+- Project hierarchy and milestone tracking
+- Multi-agent AI coordination via GitHub integration
+- Memory system for persistent context across sessions
+- RESTful APIs with comprehensive documentation
 
+---
+
+## 🎓 Education & Certifications
+
+**DQR 6 - Mechanical Engineering Technician** (2016)  
+*Focus: Data Management in Enterprise Groups*
+
+**DQR 5 - IT Systems Engineer** (2000)  
+*Specialization: Server, Network Security, Data Protection*
+
+---
+
+## 🔧 Technical Skills
+
+**Enterprise Software:** MS Office Suite, Jira, Azure DevOps, SharePoint, Visio  
+**PLM/PDM/ERP:** CAD-Desktop, GEDAS, Teamcenter, PRO.FILE, ECTR, SAP, Infor  
+**CAD Systems:** Solid Edge, SolidWorks, AutoCAD, Catia, Inventor, Fusion 360  
+**Programming:** Python, SQL, C#, Java, PHP (historical experience)  
+**Languages:** German (native), English (fluent, B2)
+
+---
+
+## 📫 Contact
+
+- **Email:** mb@birzite.de
+- **Location:** Wedel, Germany
+- **Website:** [www.birzite.de](http://www.birzite.de)
+- **LinkedIn:** [Markus Birzite](https://www.linkedin.com/in/markus-birzite-74)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadGapun&show_icons=true&theme=default&hide_border=true)
+
+---
+
+*This profile represents practical experience in enterprise software architecture, with a focus on real-world solutions that bridge technical capabilities with business requirements.*
