@@ -2,14 +2,16 @@
 
 # Markus Birzite
 
-**PLM/ERP System Architect & Program Manager | CAD-ERP Integration (PRO.FILE / SAP ECTR)**
-**Governance, Multi-Site Rollouts & Program Recovery | Maschinen- & Anlagenbau**
+**PLM/ERP System Architect & Program Manager**
+**CAD-ERP Integration (PRO.FILE / SAP ECTR) | Governance, Multi-Site Rollouts & Program Recovery**
+**Maschinen- & Anlagenbau | 25+ Jahre**
 
-*Wedel bei Hamburg*
+*Wedel bei Hamburg · Hybrid/Remote · DACH*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-markus--birzite-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markus-birzite)
-[![Website](https://img.shields.io/badge/Web-birzite.de-informational?style=flat&logo=google-chrome)](http://www.birzite.de)
-[![ELWOSA](https://img.shields.io/badge/Projekt-ELWOSA-orange?style=flat&logo=github)](https://github.com/MadGapun/ELWOSA-Pub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markus--birzite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-birzite)
+[![Website](https://img.shields.io/badge/Web-birzite.de-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.birzite.de)
+[![ELWOSA](https://img.shields.io/badge/Projekt-ELWOSA-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadGapun/ELWOSA-Pub)
+[![Email](https://img.shields.io/badge/Kontakt-mb@birzite.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mb@birzite.de)
 
 </div>
 
@@ -21,47 +23,57 @@ Ich verbinde seit über 25 Jahren Technik mit Menschen — als Systemarchitekt u
 
 **Bevor ich über Tools rede, frage ich nach Zielen und Prozessen. Bevor ich automatisiere, schaffe ich Ordnung. Und bevor ich skaliere, stelle ich sicher, dass das Fundament trägt.**
 
-Was mich antreibt: **komplexe Systeme so gestalten, dass sie für Menschen funktionieren** — ob PLM-Landschaft mit 700+ Installationen oder ein Sprachassistent, der meiner Familie den Alltag erleichtert.
+Was ich Ihrem Unternehmen bringe: einen Programmleiter, der die Engineering-Prozesse aus eigener Erfahrung kennt, der Komplexität in Klarheit übersetzt und der Programme so aufbaut, dass sie nicht von einzelnen Köpfen abhängen — sondern von sauberen Strukturen.
 
 ---
 
 ## 🛠️ Was ich mitbringe
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 **Enterprise-Architektur & PLM/PDM**
-- Über 25 Jahre Erfahrung mit Systemlandschaften in Industrie und Forschung
+- 25+ Jahre Systemlandschaften in Industrie & Forschung
 - ProFile/PROCAD, SAP ECTR, 3DExperience, Teamcenter, Vault
 - CAD/ERP-Integration, Datenmigration, Data Governance
-- Kunden von DESY und EMBL bis TOMRA Sorting und Andritz AG
+- Kunden: DESY, EMBL, TOMRA, Andritz AG, Kahl Holding
 
-**Programmleitung & Beratung**
-- Internationale IT- und Engineering-Programme (DE/EN)
-- Stakeholder-Kommunikation zwischen Konstruktion, IT und Management
-- Change Management und Prozessoptimierung in F&E-Organisationen
-- Multi-Site Rollouts, C-Level Steering, Budget- und Vendor-Steuerung
+</td>
+<td width="33%" valign="top">
+
+**Programmleitung & Steering**
+- Internationale IT- & Engineering-Programme (DE/EN)
+- Multi-Site Rollouts, C-Level Steering
+- Budget- & Vendor-Steuerung (siebenstellig)
+- Change Management in F&E-Organisationen
+
+</td>
+<td width="33%" valign="top">
 
 **Hands-on Entwicklung**
 - Python, FastAPI, PostgreSQL, SQL
-- API-Design, Microservices, Linux-Administration
-- KI-Integration (OpenAI, Anthropic Claude, lokale LLMs)
-- Von der Architektur bis zum produktiven Deployment
+- API-Design, Microservices, Linux
+- KI-Integration (OpenAI, Claude, Ollama)
+- Full-Stack: Architektur → Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Stationen
+## 💼 Stationen & Projekte
 
-| Zeitraum | Rolle | Unternehmen |
-|----------|-------|-------------|
-| 2025–heute | Freiberuflicher PLM System Architect | MAB (Selbständig) |
-| 2025 | Senior Solution Architect | CIDEON Software & Services GmbH |
-| 2020–2024 | Business Process Manager Technology | TOMRA Sorting GmbH |
-| 2009–2019 | Geschäftsführer | hitteam.de Software Solutions |
-| 2007–2020 | PLM/PDM-Berater & Projektmanager | Freiberuflich |
+| Zeitraum | Rolle | Unternehmen | Highlight |
+|----------|-------|-------------|-----------|
+| 2025–heute | Freiberuflicher PLM System Architect | MAB | Architektur, Governance, KI-Projekte |
+| 2025 | Senior Solution Architect | CIDEON Software & Services | Account-Reaktivierung, S/4HANA-Rescue |
+| 2020–2024 | Business Process Manager Technology | TOMRA Sorting | PLM-Programm (7-stellig), Cyber-Recovery |
+| 2009–2019 | Geschäftsführer | hitteam.de | Eigenes PDM-Produkt, Teamaufbau |
+| 2007–2020 | PLM/PDM-Berater & Projektmanager | Freiberuflich | KAHL, Bauer, Andritz, DESY |
 
-**Ausgewählte Projekte:**
-- **TOMRA Sorting** — 3DExperience-Einführung, internationale Projektleitung, Cyber-Recovery
-- **Andritz AG** — 700+ Installationen Vault-Erweiterungen
-- **DESY / EMBL** — PLM-Systeme für Großforschungseinrichtungen
-- **Kahl Holding** — Ganzheitliche PLM-Strategie über 3 Firmen
+> **Mein Track Record:** PLM-Rollout nach zwei gescheiterten Anläufen erfolgreich geliefert · Cyber-Recovery orchestriert (Engineering in 1 Woche wieder produktiv) · CAPEX-Risiko im Millionenbereich durch Steering-Intervention geschützt · Dormanten Account in 2h reaktiviert und 20 PT verkauft
 
 ---
 
@@ -82,9 +94,7 @@ In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassi
 - 🤖 Multi-KI: OpenAI GPT-4o, lokales Ollama, Whisper STT
 - 📅 Kalender, Wecker, Timer, Benachrichtigungen — alles per Stimme
 
-**Tech-Stack:** Python · FastAPI · PostgreSQL · Raspberry Pi · ALSA · openWakeWord · Playwright
-
-**Was das Projekt zeigt:** Full-Stack-Architektur, API-Design, KI-Integration, Linux-Administration, Hardware-Integration — alles aus einer Hand, vom Konzept bis zum produktiven System.
+**Tech-Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Raspberry Pi` · `ALSA` · `openWakeWord` · `Playwright`
 
 ➡️ [**ELWOSA-Pub — Das öffentliche Repo**](https://github.com/MadGapun/ELWOSA-Pub)
 
@@ -92,7 +102,7 @@ In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassi
 
 ## 🔧 Nebenprojekt: Bewerbungs-Assistent (MCP)
 
-Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang, natürliche Sprache statt Formular-Ausfüllen.
+Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang.
 
 > *Wenn ich ein Problem sehe, baue ich ein Werkzeug. Das zieht sich durch meine ganze Karriere — von meinem ersten PDM-Produkt (active.PDM, 2009) über CAD-Konfiguratoren bis zu KI-gestützten Assistenten heute.*
 
@@ -100,35 +110,43 @@ Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Ser
 
 ## 🎓 Qualifikationen
 
-- **Maschinenbautechniker** (DQR 6) — Schwerpunkt Datenmanagement
-- **IT-Systemingenieur** (DQR 5) — Server, Netzwerksicherheit, Datenschutz
-- **Technischer Zeichner** Maschinen- und Anlagenbau
+| Abschluss | Schwerpunkt |
+|-----------|-------------|
+| **Maschinenbautechniker** (DQR 6) | Datenmanagement |
+| **IT-Systemingenieur** (DQR 5) | Server, Netzwerksicherheit |
+| **Technischer Zeichner** | Maschinen- und Anlagenbau |
 
 ---
 
 ## 🌍 Sprachen
 
-| Sprache | Niveau |
-|---------|--------|
-| 🇩🇪 Deutsch | Muttersprache |
-| 🇬🇧 Englisch | C1 (beruflich verhandlungssicher) |
+| | Sprache | Niveau |
+|---|---------|--------|
+| 🇩🇪 | Deutsch | Muttersprache |
+| 🇬🇧 | Englisch | C1 (beruflich verhandlungssicher) |
 
 ---
 
 ## Persönlich
 
-- In meiner Werkstatt: CNC-Fräse, 3D-Drucker, Holzprojekte
-- Ehem. Bundeswehr — NATO/KFOR Kosovo (1999)
-- Vater, Bastler, Problemlöser
+- 🔧 In meiner Werkstatt: CNC-Fräse, 3D-Drucker, Holzprojekte
+- 🎖️ Ehem. Bundeswehr — NATO/KFOR Kosovo (1999)
+- 👨‍👧 Vater, Bastler, Problemlöser
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadGapun&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadGapun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-*Offen für spannende Projekte — festangestellt oder freiberuflich.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadGapun&layout=compact&theme=tokyonight&hide_border=true)
 
-📫 **mb@birzite.de**
+---
+
+**Offen für spannende Projekte — festangestellt oder freiberuflich.**
+
+*Ich denke in Systemen, nicht in Tools.*
+
+📫 **[mb@birzite.de](mailto:mb@birzite.de)** · 📱 **+49 1525 825 8888**
 
 </div>
