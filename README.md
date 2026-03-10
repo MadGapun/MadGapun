@@ -2,11 +2,12 @@
 
 # Markus Birzite
 
-**Solution Architect · PLM/PDM · KI-Integration · Digitale Transformation**
+**PLM/ERP System Architect & Program Manager | CAD-ERP Integration (PRO.FILE / SAP ECTR)**
+**Governance, Multi-Site Rollouts & Program Recovery | Maschinen- & Anlagenbau**
 
 *Wedel bei Hamburg*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-markus--birzite-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markus-birzite-74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markus--birzite-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markus-birzite)
 [![Website](https://img.shields.io/badge/Web-birzite.de-informational?style=flat&logo=google-chrome)](http://www.birzite.de)
 [![ELWOSA](https://img.shields.io/badge/Projekt-ELWOSA-orange?style=flat&logo=github)](https://github.com/MadGapun/ELWOSA-Pub)
 
@@ -16,7 +17,9 @@
 
 ## Über mich
 
-Ich verbinde seit über 25 Jahren Technik mit Menschen — als Systemarchitekt in der Industrie, als Berater für Digitalisierung und als Entwickler, der gerne selbst Hand anlegt. Mein Weg führte mich von der technischen Zeichnung über Maschinenbau und IT-Systemtechnik bis zur Enterprise-Architektur.
+Ich verbinde seit über 25 Jahren Technik mit Menschen — als Systemarchitekt und Programmleiter in der Industrie, als Berater für Digitalisierung und als Entwickler, der gerne selbst Hand anlegt. Mein Weg führte mich von der technischen Zeichnung über Maschinenbau und IT-Systemtechnik bis zur Enterprise-Architektur.
+
+**Bevor ich über Tools rede, frage ich nach Zielen und Prozessen. Bevor ich automatisiere, schaffe ich Ordnung. Und bevor ich skaliere, stelle ich sicher, dass das Fundament trägt.**
 
 Was mich antreibt: **komplexe Systeme so gestalten, dass sie für Menschen funktionieren** — ob PLM-Landschaft mit 700+ Installationen oder ein Sprachassistent, der meiner Familie den Alltag erleichtert.
 
@@ -26,14 +29,15 @@ Was mich antreibt: **komplexe Systeme so gestalten, dass sie für Menschen funkt
 
 **Enterprise-Architektur & PLM/PDM**
 - Über 25 Jahre Erfahrung mit Systemlandschaften in Industrie und Forschung
-- ProFile/PROCAD, SAP, 3DExperience, Teamcenter, ECTR, Vault
+- ProFile/PROCAD, SAP ECTR, 3DExperience, Teamcenter, Vault
 - CAD/ERP-Integration, Datenmigration, Data Governance
 - Kunden von DESY und EMBL bis TOMRA Sorting und Andritz AG
 
-**Projektleitung & Beratung**
-- Internationale IT- und Engineering-Projekte (DE/EN)
+**Programmleitung & Beratung**
+- Internationale IT- und Engineering-Programme (DE/EN)
 - Stakeholder-Kommunikation zwischen Konstruktion, IT und Management
 - Change Management und Prozessoptimierung in F&E-Organisationen
+- Multi-Site Rollouts, C-Level Steering, Budget- und Vendor-Steuerung
 
 **Hands-on Entwicklung**
 - Python, FastAPI, PostgreSQL, SQL
@@ -47,16 +51,17 @@ Was mich antreibt: **komplexe Systeme so gestalten, dass sie für Menschen funkt
 
 | Zeitraum | Rolle | Unternehmen |
 |----------|-------|-------------|
+| 2025–heute | Freiberuflicher PLM System Architect | MAB (Selbständig) |
 | 2025 | Senior Solution Architect | CIDEON Software & Services GmbH |
 | 2020–2024 | Business Process Manager Technology | TOMRA Sorting GmbH |
-| 2009–2017 | Geschäftsführer | hitteam.de Software Solutions |
-| 2007–2020 | PLM/PDM-Berater | Freiberuflich |
+| 2009–2019 | Geschäftsführer | hitteam.de Software Solutions |
+| 2007–2020 | PLM/PDM-Berater & Projektmanager | Freiberuflich |
 
 **Ausgewählte Projekte:**
-- **TOMRA Sorting** — 3DExperience-Einführung, internationale Projektleitung
+- **TOMRA Sorting** — 3DExperience-Einführung, internationale Projektleitung, Cyber-Recovery
 - **Andritz AG** — 700+ Installationen Vault-Erweiterungen
 - **DESY / EMBL** — PLM-Systeme für Großforschungseinrichtungen
-- **Kahl Holding** — Ganzheitliche PLM-Strategie für Unternehmensgruppe
+- **Kahl Holding** — Ganzheitliche PLM-Strategie über 3 Firmen
 
 ---
 
@@ -85,6 +90,14 @@ In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassi
 
 ---
 
+## 🔧 Nebenprojekt: Bewerbungs-Assistent (MCP)
+
+Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang, natürliche Sprache statt Formular-Ausfüllen.
+
+> *Wenn ich ein Problem sehe, baue ich ein Werkzeug. Das zieht sich durch meine ganze Karriere — von meinem ersten PDM-Produkt (active.PDM, 2009) über CAD-Konfiguratoren bis zu KI-gestützten Assistenten heute.*
+
+---
+
 ## 🎓 Qualifikationen
 
 - **Maschinenbautechniker** (DQR 6) — Schwerpunkt Datenmanagement
@@ -98,15 +111,12 @@ In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassi
 | Sprache | Niveau |
 |---------|--------|
 | 🇩🇪 Deutsch | Muttersprache |
-| 🇬🇧 Englisch | Fließend (B2) |
-| 🇱🇻 Lettisch | Familiensprache |
-| 🇷🇺 Russisch | Grundkenntnisse |
+| 🇬🇧 Englisch | C1 (beruflich verhandlungssicher) |
 
 ---
 
 ## Persönlich
 
-- Mitglied bei **Mensa** (MinD e.V. & Mensa Schweiz)
 - In meiner Werkstatt: CNC-Fräse, 3D-Drucker, Holzprojekte
 - Ehem. Bundeswehr — NATO/KFOR Kosovo (1999)
 - Vater, Bastler, Problemlöser
