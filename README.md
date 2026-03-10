@@ -51,11 +51,11 @@ Was ich Ihrem Unternehmen bringe: einen Programmleiter, der die Engineering-Proz
 </td>
 <td width="33%" valign="top">
 
-**Hands-on Entwicklung**
+**Abends & am Wochenende (Hobby)**
 - Python, FastAPI, PostgreSQL, SQL
 - API-Design, Microservices, Linux
 - KI-Integration (OpenAI, Claude, Ollama)
-- Full-Stack: Architektur → Deployment
+- Maker: CNC, 3D-Druck, IoT
 
 </td>
 </tr>
@@ -77,9 +77,9 @@ Was ich Ihrem Unternehmen bringe: einen Programmleiter, der die Engineering-Proz
 
 ---
 
-## 🏠 Nebenprojekt: ELWOSA
+## 🏠 Feierabend-Projekt: ELWOSA
 
-In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassistenten für mein Zuhause. Privat, erweiterbar, komplett auf Deutsch.
+Was ich beruflich mit PLM-Landschaften mache, mache ich abends mit meinem Zuhause: **ELWOSA** ist ein selbst gehosteter KI-Sprachassistent. Privat, erweiterbar, komplett auf Deutsch. Ein Hobby-Projekt, das zeigt wie ich denke — in Systemen, Schnittstellen und Prozessen.
 
 <div align="center">
 
@@ -100,9 +100,9 @@ In meiner Freizeit baue ich **ELWOSA** — einen selbst gehosteten KI-Sprachassi
 
 ---
 
-## 🔧 Nebenprojekt: Bewerbungs-Assistent (MCP)
+## 🔧 Feierabend-Projekt: Bewerbungs-Assistent (MCP)
 
-Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang.
+Gleiches Prinzip, anderes Problem: Ein **KI-gestützter Bewerbungsassistent** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang.
 
 > *Wenn ich ein Problem sehe, baue ich ein Werkzeug. Das zieht sich durch meine ganze Karriere — von meinem ersten PDM-Produkt (active.PDM, 2009) über CAD-Konfiguratoren bis zu KI-gestützten Assistenten heute.*
 
@@ -129,9 +129,9 @@ Aktuell entwickle ich einen **KI-gestützten Bewerbungsassistenten** als MCP-Ser
 
 ## Persönlich
 
-- 🔧 In meiner Werkstatt: CNC-Fräse, 3D-Drucker, Holzprojekte
 - 🎖️ Ehem. Bundeswehr — NATO/KFOR Kosovo (1999)
-- 👨‍👧 Vater, Bastler, Problemlöser
+- 🔧 Maker: CNC-Fräse, 3D-Drucker, Holzwerkstatt
+- 👨‍👧 Vater, Bastler, Systemdenker
 
 ---
 
