@@ -77,6 +77,14 @@ Was ich Ihrem Unternehmen bringe: einen Programmleiter, der die Engineering-Proz
 
 ---
 
+## 🪵 Feierabend: Werkstatt & Maker-Projekte
+
+Was ich beruflich mit PLM-Landschaften mache, mache ich abends in meiner Werkstatt: vom Rohmaterial zum fertigen Produkt. CNC-Fräse, Laser, Drechselbank, 3D-Drucker — und das gleiche Denkmuster: Problem zerlegen, Werkzeuge kombinieren, Ergebnis liefern.
+
+➡️ [**Werkstatt-Galerie — Alle Projekte mit Fotos**](https://github.com/MadGapun/Werkstatt)
+
+---
+
 ## 🏠 Feierabend-Projekt: ELWOSA
 
 Was ich beruflich mit PLM-Landschaften mache, mache ich abends mit meinem Zuhause: **ELWOSA** ist ein selbst gehosteter KI-Sprachassistent. Privat, erweiterbar, komplett auf Deutsch. Ein Hobby-Projekt, das zeigt wie ich denke — in Systemen, Schnittstellen und Prozessen.
