@@ -3,7 +3,9 @@
 # Markus Birzite
 
 **PLM/ERP System Architect & Program Manager**
+
 **CAD-ERP Integration (PRO.FILE / SAP ECTR) | Governance, Multi-Site Rollouts & Program Recovery**
+
 **Maschinen- & Anlagenbau | 25+ Jahre**
 
 *Wedel bei Hamburg · Hybrid/Remote · DACH*
@@ -84,10 +86,11 @@ Was ich beruflich mit PLM-Landschaften mache, mache ich abends in meiner Werksta
 ➡️ [**Werkstatt-Galerie — Alle Projekte mit Fotos**](https://github.com/MadGapun/Werkstatt)
 
 ---
-
 ## 🏠 Feierabend-Projekt: ELWOSA
 
-Was ich beruflich mit PLM-Landschaften mache, mache ich abends mit meinem Zuhause: **ELWOSA** ist ein selbst gehosteter KI-Sprachassistent. Privat, erweiterbar, komplett auf Deutsch. Ein Hobby-Projekt, das zeigt wie ich denke — in Systemen, Schnittstellen und Prozessen.
+Was andere als "Smart Home" kaufen, habe ich selbst gebaut. **ELWOSA** ist mein selbst gehosteter KI-Assistent, Heimserver und Projektmanagement-Hub — komplett lokal, komplett unter meiner Kontrolle.
+
+Was als Sprachassistent begann, ist heute das **Betriebssystem meines Alltags**: Projektplanung, Aufgabenorchestrierung, Kalender, Übersetzung, IoT-Steuerung — alles per Stimme oder Browser, alles auf meiner eigenen Hardware.
 
 <div align="center">
 
@@ -95,27 +98,69 @@ Was ich beruflich mit PLM-Landschaften mache, mache ich abends mit meinem Zuhaus
 
 </div>
 
-**Was ELWOSA kann:**
-- 🎤 Sprachsteuerung mit eigenem Wake Word und Streaming-Pipeline (~2s Latenz)
-- 📊 10-Tab Admin Hub mit Projektmanagement, Kalender, Backup-System
-- 🌐 Echtzeit-Übersetzer (Deutsch ↔ Lettisch)
-- 🤖 Multi-KI: OpenAI GPT-4o, lokales Ollama, Whisper STT
-- 📅 Kalender, Wecker, Timer, Benachrichtigungen — alles per Stimme
+**ELWOSA als Heimserver & Plattform:**
+- 🖥️ Läuft auf einem Trycoo Mini PC (192.168.178.200) — 24/7, lautlos, stromsparend
+- 🌐 Multi-Story IoT-Infrastruktur: WLAN, Sensoren, Automatisierungen über das gesamte Haus
+- 🔌 MCP-Server-Infrastruktur: verbindet Claude Desktop, ChatGPT und lokale KI-Modelle mit Haushalt und Daten
+- 🔒 Alles lokal — keine Cloud, keine fremden Server, keine Abos
 
-**Tech-Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Raspberry Pi` · `ALSA` · `openWakeWord` · `Playwright`
+**ELWOSA als Projektmanagement & Orchestrierung:**
+- 📊 10-Tab Admin Hub: Projekte, Aufgaben, Kalender, Backup-System, Statistiken
+- 🤖 Multi-KI-Orchestrierung: OpenAI GPT-4o, lokales Ollama, Whisper STT
+- 📅 Kalender, Wecker, Timer, Benachrichtigungen
+- 🌐 Echtzeit-Übersetzer (Deutsch ↔ Lettisch) — weil Lettland ein Teil meines Lebens ist
+
+**ELWOSA als Sprachassistent:**
+- 🎤 Wake Word + Streaming-Pipeline (~2s Latenz, vollständig offline möglich)
+- 🗣️ Natürliche Spracheingabe auf Deutsch — kein "Alexa-Befehlston" nötig
+- 🔧 Erweiterbar: neue Skills, neue Integrationen, neue Quellen — alles selbst gebaut
+
+**Tech-Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Raspberry Pi` · `ALSA` · `openWakeWord` · `Playwright` · `SQLite` · `MCP`
 
 ➡️ [**ELWOSA-Pub — Das öffentliche Repo**](https://github.com/MadGapun/ELWOSA-Pub)
 
 ---
-
-## 🔧 Feierabend-Projekt: Bewerbungs-Assistent (MCP)
-
-Gleiches Prinzip, anderes Problem: Ein **KI-gestützter Bewerbungsassistent** als MCP-Server für Claude Desktop — gesprächsbasierte Profilerstellung, Multi-Quellen-Jobsuche (9 Portale), automatisches Scoring und Dokument-Export. Komplett lokal, kein Cloud-Zwang.
+## 🔧 Feierabend-Projekt: PBP — Persönliches Bewerbungs-Portal
 
 > *Wenn ich ein Problem sehe, baue ich ein Werkzeug. Das zieht sich durch meine ganze Karriere — von meinem ersten PDM-Produkt (active.PDM, 2009) über CAD-Konfiguratoren bis zu KI-gestützten Assistenten heute.*
 
----
+Ich bin selbst auf Jobsuche — also habe ich das Werkzeug gebaut, das ich mir gewünscht hätte. **PBP** ist ein vollständiger, KI-gestützter Bewerbungsassistent als MCP-Server für Claude Desktop. Komplett lokal, Open Source, kostenlos.
 
+**Kein Klicken durch 17 Jobportale. Kein Copy-Paste von Anschreiben. Kein Verlieren des Überblicks.**
+
+<div align="center">
+
+![PBP Dashboard](https://raw.githubusercontent.com/MadGapun/PBP/main/docs/screenshots/01_dashboard.png)
+
+</div>
+
+**Was PBP leistet:**
+- 🔍 **17 Jobportale gleichzeitig** — StepStone, Indeed, Monster, Bundesagentur, Hays, Freelancermap, freelance.de und 10 weitere. Eine Suche, alle Ergebnisse, Duplikate automatisch erkannt
+- 🎯 **Intelligentes Scoring** — Jede Stelle bekommt einen Score: Entfernung, Keywords, Gehalt, Remote-Level, Skill-Match. Festanstellung links, Freelance rechts
+- 📝 **Stellenspezifische Dokumente** — Angepasster Lebenslauf und personalisiertes Anschreiben, Skills nach Relevanz sortiert, als DOCX zum Feinschliff
+- 📧 **E-Mail-Integration** — .msg/.eml per Drag & Drop, automatische Zuordnung zur Bewerbung, Status-Erkennung (Einladung/Absage/Angebot), Termin-Extraktion
+- 📊 **Vollständiges Tracking** — Pipeline von "in Vorbereitung" bis "Angebot", Timeline, Gesprächsnotizen, 5 interaktive Statistik-Charts
+- 🤖 **KI-Coaching** — Interview-Simulation, Gehaltsverhandlung, Ablehnungs-Coaching, Skill-Gap-Analyse, 3-Perspektiven-Lebenslauf-Bewertung (Personalberater, ATS, Recruiter)
+
+<div align="center">
+
+![PBP Stellensuche](https://raw.githubusercontent.com/MadGapun/PBP/main/docs/screenshots/03_stellen.png)
+
+</div>
+
+**Zahlen & Fakten (Stand v0.33):**
+- 70 MCP-Tools · 16 geführte Workflows · 362 automatisierte Tests
+- 22 Datenbanktabellen · Schema v18 · SQLite WAL-Mode
+- 85+ Dashboard-API-Endpunkte · React 19 + Vite + Tailwind Frontend
+- Vollständiger Windows-Installer (INSTALLIEREN.bat — ein Doppelklick, fertig)
+
+**Tech-Stack:** `Python` · `FastAPI` · `SQLite` · `Playwright` · `httpx` · `BeautifulSoup` · `React 19` · `Tailwind CSS` · `fpdf2` · `python-docx`
+
+Ein ELWOSA-Projekt — PBP entstand auf der ELWOSA-Plattform und nutzt dieselbe Infrastruktur und Entwicklungsmethodik.
+
+➡️ [**PBP auf GitHub — Open Source, kostenlos**](https://github.com/MadGapun/PBP)
+
+---
 ## 🎓 Qualifikationen
 
 | Abschluss | Schwerpunkt |
@@ -146,7 +191,6 @@ Gleiches Prinzip, anderes Problem: Ein **KI-gestützter Bewerbungsassistent** al
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadGapun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadGapun&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
