@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Markus Birzite
 
@@ -86,38 +86,26 @@ Was ich beruflich mit PLM-Landschaften mache, mache ich abends in meiner Werksta
 ➡️ [**Werkstatt-Galerie — Alle Projekte mit Fotos**](https://github.com/MadGapun/Werkstatt)
 
 ---
-## 🏠 Feierabend-Projekt: ELWOSA
+## 🧭 ELWOSA — elwosa.de
 
-Was andere als "Smart Home" kaufen, habe ich selbst gebaut. **ELWOSA** ist mein selbst gehosteter KI-Assistent, Heimserver und Projektmanagement-Hub — komplett lokal, komplett unter meiner Kontrolle.
+**Projekte, die ihren Kontext nicht verlieren.**
 
-Was als Sprachassistent begann, ist heute das **Betriebssystem meines Alltags**: Projektplanung, Aufgabenorchestrierung, Kalender, Übersetzung, IoT-Steuerung — alles per Stimme oder Browser, alles auf meiner eigenen Hardware.
+Projektwissen zerfällt: Die Anforderung steht im Chat, die Entscheidung in einer Mail, der Stand in einem Ticket, die Begründung nirgends. Mit KI im Team wird das schärfer statt besser — ein Assistent, der jeden Chat ohne Vorgeschichte beginnt, ist kein Mitarbeiter, sondern ein Werkzeug, das man jedes Mal neu einarbeitet.
 
-<div align="center">
+**ELWOSA** ist die Arbeitsplattform, auf der Menschen und KI gemeinsam Projekte planen, dokumentieren und umsetzen. Jedes Projekt bekommt ein dauerhaftes, geteiltes Gedächtnis.
 
-![ELWOSA Admin Hub](https://raw.githubusercontent.com/MadGapun/ELWOSA-Pub/main/docs/screenshots/01_admin_dashboard.png)
+- **Nichts gilt als fertig, was nicht belegt ist.** Jede Aufgabe trägt Ziel, Abnahmekriterien und Lösung. Abgeschlossen wird sie erst, wenn die Kette vollständig ist.
+- **Die KI arbeitet am selben Stand wie ich.** Über eine offene MCP-Schnittstelle liest der Assistent den Projektkontext direkt — im Rahmen der vergebenen Rechte, nie unbemerkt.
+- **Prozesse sind mehr als ein Bild.** Abläufe und Architektur werden modelliert; aus einem geänderten Prozess lassen sich neue Aufgaben ableiten.
+- **Rechte pro Sicht** — für Gruppen, einzelne Personen oder einzelne KI-Konten. Was nicht freigegeben ist, bleibt zu.
 
-</div>
+Das ist meine berufliche These als laufendes System: Governance, Nachvollziehbarkeit und Definition of Done — nicht als Folie im Steering-Board, sondern als Software, die es erzwingt.
 
-**ELWOSA als Heimserver & Plattform:**
-- 🖥️ Läuft auf einem Trycoo Mini PC (192.168.178.200) — 24/7, lautlos, stromsparend
-- 🌐 Multi-Story IoT-Infrastruktur: WLAN, Sensoren, Automatisierungen über das gesamte Haus
-- 🔌 MCP-Server-Infrastruktur: verbindet Claude Desktop, ChatGPT und lokale KI-Modelle mit Haushalt und Daten
-- 🔒 Alles lokal — keine Cloud, keine fremden Server, keine Abos
+**Tech-Stack:** `PHP 8.4` · `MySQL 8` · `MCP` · Vanilla, kein Framework
 
-**ELWOSA als Projektmanagement & Orchestrierung:**
-- 📊 10-Tab Admin Hub: Projekte, Aufgaben, Kalender, Backup-System, Statistiken
-- 🤖 Multi-KI-Orchestrierung: OpenAI GPT-4o, lokales Ollama, Whisper STT
-- 📅 Kalender, Wecker, Timer, Benachrichtigungen
-- 🌐 Echtzeit-Übersetzer (Deutsch ↔ Lettisch) — weil Lettland ein Teil meines Lebens ist
+➡️ [**elwosa.de**](https://www.elwosa.de) · [Die Idee dahinter](https://www.elwosa.de/idee) · [Aktueller Stand](https://www.elwosa.de/statistik)
 
-**ELWOSA als Sprachassistent:**
-- 🎤 Wake Word + Streaming-Pipeline (~2s Latenz, vollständig offline möglich)
-- 🗣️ Natürliche Spracheingabe auf Deutsch — kein "Alexa-Befehlston" nötig
-- 🔧 Erweiterbar: neue Skills, neue Integrationen, neue Quellen — alles selbst gebaut
-
-**Tech-Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Raspberry Pi` · `ALSA` · `openWakeWord` · `Playwright` · `SQLite` · `MCP`
-
-➡️ [**ELWOSA-Pub — Das öffentliche Repo**](https://github.com/MadGapun/ELWOSA-Pub)
+**Auf ELWOSA entstehen:** [PBP](https://github.com/MadGapun/PBP) (Bewerbungs-Helfer) und [CAMWOSA](https://www.elwosa.de/projekt/camwosa) (CAM für Hobby- und Profi-CNC).
 
 ---
 ## 🔧 Feierabend-Projekt: PBP — Persönliches Bewerbungs-Portal
