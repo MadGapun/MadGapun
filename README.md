@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Markus Birzite
 
@@ -124,9 +124,11 @@ Was als Sprachassistent begann, ist heute das **Betriebssystem meines Alltags**:
 
 > *Wenn ich ein Problem sehe, baue ich ein Werkzeug. Das zieht sich durch meine ganze Karriere — von meinem ersten PDM-Produkt (active.PDM, 2009) über CAD-Konfiguratoren bis zu KI-gestützten Assistenten heute.*
 
-Ich bin selbst auf Jobsuche — also habe ich das Werkzeug gebaut, das ich mir gewünscht hätte. **PBP** ist ein vollständiger, KI-gestützter Bewerbungsassistent als MCP-Server für Claude Desktop. Komplett lokal, Open Source, kostenlos.
+Wer schon mal mehr als zehn Bewerbungen gleichzeitig laufen hatte, kennt das Gefühl: zehn offene Tabs, drei Excel-Listen, ein Kalender voller Termine ohne Kontext. Ich bin selbst auf Jobsuche — also habe ich das Werkzeug gebaut, das ich mir gewünscht hätte.
 
-**Kein Klicken durch 17 Jobportale. Kein Copy-Paste von Anschreiben. Kein Verlieren des Überblicks.**
+**PBP** ist ein Bewerbungs-Helfer. Er verwaltet Bewerbungen, durchsucht Stellenportale und gibt ehrliches Feedback zu den Unterlagen — mit konkreten Vorschlägen, wie es besser geht. Läuft lokal, Open Source, kostenlos.
+
+Der Unterschied zu einer Sammlung einzelner Werkzeuge: **sie reden miteinander.** Die KI, die das Anschreiben schreibt, kennt die Stelle. Die Stellenbewertung kennt das Profil. Die Interview-Vorbereitung kennt das Anschreiben, das rausgegangen ist. Der Kalender weiß, welcher Termin zu welcher Bewerbung gehört.
 
 <div align="center">
 
@@ -135,12 +137,14 @@ Ich bin selbst auf Jobsuche — also habe ich das Werkzeug gebaut, das ich mir g
 </div>
 
 **Was PBP leistet:**
-- 🔍 **17 Jobportale gleichzeitig** — StepStone, Indeed, Monster, Bundesagentur, Hays, Freelancermap, freelance.de und 10 weitere. Eine Suche, alle Ergebnisse, Duplikate automatisch erkannt
+- 🔍 **Über 30 Jobquellen gleichzeitig** — StepStone, Indeed, Monster, Bundesagentur, XING, Hays, Freelancermap, freelance.de, Gulp, Solcom, Workday- und Personio-Karriereseiten und viele weitere. Eine Suche, alle Ergebnisse, Duplikate automatisch erkannt
 - 🎯 **Intelligentes Scoring** — Jede Stelle bekommt einen Score: Entfernung, Keywords, Gehalt, Remote-Level, Skill-Match. Festanstellung links, Freelance rechts
 - 📝 **Stellenspezifische Dokumente** — Angepasster Lebenslauf und personalisiertes Anschreiben, Skills nach Relevanz sortiert, als DOCX zum Feinschliff
 - 📧 **E-Mail-Integration** — .msg/.eml per Drag & Drop, automatische Zuordnung zur Bewerbung, Status-Erkennung (Einladung/Absage/Angebot), Termin-Extraktion
 - 📊 **Vollständiges Tracking** — Pipeline von "in Vorbereitung" bis "Angebot", Timeline, Gesprächsnotizen, 5 interaktive Statistik-Charts
-- 🤖 **KI-Coaching** — Interview-Simulation, Gehaltsverhandlung, Ablehnungs-Coaching, Skill-Gap-Analyse, 3-Perspektiven-Lebenslauf-Bewertung (Personalberater, ATS, Recruiter)
+- 🤖 **KI-Coaching** — Interview-Simulation, Interview-Nachbereitung, Gehaltsverhandlung, Ablehnungs-Coaching, Skill-Gap-Analyse, 3-Perspektiven-Lebenslauf-Bewertung (Personalberater, ATS, Recruiter)
+- 🗓️ **Termine, Kontakte, Aufgaben** — Kalender mit Kategorien, Recruiter- und Ansprechpartner-Historie, Nachfass-Erinnerungen. Wer hat wann was gesagt, und wo hakt es gerade
+- 🧩 **Was nicht im Lebenslauf steht** — Ehrenamt, Pflege eines Angehörigen, eine längere Auszeit, ein Umweg, der eigentlich keiner war. Wer im Verein einen Vorstand führt, hat Projektmanagement gemacht, ohne dass es so hieß. PBP nimmt das ernst und rechnet es mit ein
 
 <div align="center">
 
@@ -148,17 +152,30 @@ Ich bin selbst auf Jobsuche — also habe ich das Werkzeug gebaut, das ich mir g
 
 </div>
 
-**Zahlen & Fakten (Stand v0.33):**
-- 70 MCP-Tools · 16 geführte Workflows · 362 automatisierte Tests
-- 22 Datenbanktabellen · Schema v18 · SQLite WAL-Mode
-- 85+ Dashboard-API-Endpunkte · React 19 + Vite + Tailwind Frontend
-- Vollständiger Windows-Installer (INSTALLIEREN.bat — ein Doppelklick, fertig)
+**Zahlen & Fakten (Stand v1.7.12, August 2026):**
+- Über 200 MCP-Tools · 18 geführte Workflows · rund 2.200 automatisierte Tests
+- 76 Datenbanktabellen · Schema v52 · SQLite WAL-Mode
+- Über 270 Dashboard-API-Endpunkte · React 19 + Vite + Tailwind Frontend
+- Windows, macOS und Linux · Windows-Installer als Doppelklick
+- Wöchentliche Releases seit März 2026
+- **Läuft auch komplett ohne KI** — dann als reines Verwaltungswerkzeug für Bewerbungen
 
-**Tech-Stack:** `Python` · `FastAPI` · `SQLite` · `Playwright` · `httpx` · `BeautifulSoup` · `React 19` · `Tailwind CSS` · `fpdf2` · `python-docx`
+**Tech-Stack:** `Python` · `FastAPI` · `SQLite` · `MCP` · `Playwright` · `httpx` · `BeautifulSoup` · `React 19` · `Tailwind CSS` · `Ollama` (lokale KI) · `fpdf2` · `python-docx`
 
 Ein ELWOSA-Projekt — PBP entstand auf der ELWOSA-Plattform und nutzt dieselbe Infrastruktur und Entwicklungsmethodik.
 
 ➡️ [**PBP auf GitHub — Open Source, kostenlos**](https://github.com/MadGapun/PBP)
+
+---
+## ✍️ Wie ich denke
+
+*"Ich denke in Systemen, nicht in Tools"* — das lässt sich behaupten. Lieber zeige ich es:
+
+- [**PLM ist kein Tool — es ist Prozessintelligenz**](https://www.linkedin.com/pulse/plm-ist-kein-tool-es-prozessintelligenz-markus-birzite-dpife) — warum die Werkzeugauswahl die falsche erste Frage ist
+- [**Daten- und Prozessmanagement sind keine IT-Projekte**](https://www.linkedin.com/pulse/daten-und-prozessmanagement-sind-keine-it-projekte-markus-birzite-8xdue) — eine Standpauke, geboren aus Erfahrung mit Millionengräbern
+- [**Wie faul bist Du?**](https://www.linkedin.com/pulse/wie-faul-bist-du-markus-birzite-ibsce) — über den Unterschied zwischen fleißig und wirksam
+
+➡️ [Alle Artikel auf LinkedIn](https://www.linkedin.com/in/markus-birzite/recent-activity/articles/)
 
 ---
 ## 🎓 Qualifikationen
@@ -202,3 +219,4 @@ Ein ELWOSA-Projekt — PBP entstand auf der ELWOSA-Plattform und nutzt dieselbe 
 📫 **[mb@birzite.de](mailto:mb@birzite.de)** · 📱 **+49 1525 825 8888**
 
 </div>
+
